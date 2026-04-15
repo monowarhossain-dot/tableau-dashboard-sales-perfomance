@@ -11,13 +11,13 @@
 In the digital era, data is only as valuable as its accessibility. This repository contains an interactive Tableau dashboard designed to translate raw performance metrics into a clear visual architecture. It bridges the gap between quantitative data and strategic action, enabling leaders to identify market trends, pinpoint systemic bottlenecks, and drive transparent organizational growth.
 
 ### Systemic Insights & Usability
-- 🧠 **Strategic Foresight:** Clean, filter-enabled visual hierarchies designed specifically to accelerate evidence-based decision-making for stakeholders.
-- 🌍 **Macro & Micro Mapping:** Comprehensive KPI summaries combined with granular category breakdowns to understand both the overarching digital ecosystem and individual touchpoints.
-- 🤝 **Cross-Functional Alignment:** Built as a communication tool to align diverse organizational teams, ensuring a transparent understanding of performance metrics across the board.
+-  **Strategic Foresight:** Clean, filter-enabled visual hierarchies designed specifically to accelerate evidence-based decision-making for stakeholders.
+-  **Macro & Micro Mapping:** Comprehensive KPI summaries combined with granular category breakdowns to understand both the overarching digital ecosystem and individual touchpoints.
+-  **Cross-Functional Alignment:** Built as a communication tool to align diverse organizational teams, ensuring a transparent understanding of performance metrics across the board.
 
 ---
 
-## 📂 Information Architecture & Assets
+##  Information Architecture & Assets
 
 The repository is structured to provide both the final strategic output and the underlying data model:
 
@@ -34,13 +34,13 @@ The repository is structured to provide both the final strategic output and the 
 
 ## 👤 About the Researcher
 
-**Md. [cite_start]Monowar Hossain** [cite: 32]
+**Md. Monowar Hossain** 
 *Data-Driven Researcher | Digital Governance Advocate*
 
-[cite_start]I leverage quantitative analytics and a background in Business Administration (MBA) to map systemic behaviors, architect trust, and build inclusive digital ecosystems[cite: 41, 44]. My work focuses on translating complex data into actionable strategies that improve public sector governance and empower cross-cultural leadership.
+I leverage quantitative analytics and a background in Business Administration (MBA) to map systemic behaviors, architect trust, and build inclusive digital ecosystems. My work focuses on translating complex data into actionable strategies that improve public sector governance and empower cross-cultural leadership.
 
-- [cite_start]📧 **Email:** monowar.1803365@std.hstu.ac.bd [cite: 36]
-- [cite_start]💼 **LinkedIn:** [Md Monowar Hossain](https://www.linkedin.com/in/md-monowar-hossain-278460225/) [cite: 37]
+- 📧 **Email:** monowar.1803365@std.hstu.ac.bd 
+- 💼 **LinkedIn:** [Md Monowar Hossain](https://www.linkedin.com/in/md-monowar-hossain-278460225/) 
 
 ---
 
