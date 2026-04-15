@@ -1,6 +1,6 @@
 # 📊 Tableau: Strategic Performance & Ecosystem Mapping
 
-> **Visualizing complex data to reduce systemic friction and empower human-centric decision-making.**
+> **Visualizing complex data to reduce systemic friction and empower evidence-based leadership.**
 
 **🔗 Live Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/monowar.hossain6948/viz/Book2_twbtableaureportforsubmission_twbx02/Dashboard1?publish=yes)
 
@@ -8,12 +8,12 @@
 
 ## 🎯 The Strategic Value
 
-In service systems, data is only as valuable as its accessibility. This repository contains an interactive Tableau dashboard designed to translate raw sales and performance metrics into a clear visual architecture. It bridges the gap between quantitative data and human action, enabling stakeholders to easily identify market trends, pinpoint operational friction, and drive strategic growth.
+In the digital era, data is only as valuable as its accessibility. This repository contains an interactive Tableau dashboard designed to translate raw performance metrics into a clear visual architecture. It bridges the gap between quantitative data and strategic action, enabling leaders to identify market trends, pinpoint systemic bottlenecks, and drive transparent organizational growth.
 
 ### Systemic Insights & Usability
-- 🧠 **Reduced Cognitive Load:** Clean, filter-enabled visual hierarchies designed specifically for non-technical stakeholders to accelerate evidence-based decision-making.
-- 🌍 **Macro & Micro Mapping:** Comprehensive KPI summaries combined with granular category breakdowns to understand both the overarching ecosystem and individual touchpoints.
-- 🤝 **Cross-Functional Alignment:** Built as a communication tool to align business teams, ensuring everyone understands the system's performance metrics seamlessly.
+- 🧠 **Strategic Foresight:** Clean, filter-enabled visual hierarchies designed specifically to accelerate evidence-based decision-making for stakeholders.
+- 🌍 **Macro & Micro Mapping:** Comprehensive KPI summaries combined with granular category breakdowns to understand both the overarching digital ecosystem and individual touchpoints.
+- 🤝 **Cross-Functional Alignment:** Built as a communication tool to align diverse organizational teams, ensuring a transparent understanding of performance metrics across the board.
 
 ---
 
@@ -32,15 +32,15 @@ The repository is structured to provide both the final strategic output and the 
 
 ---
 
-## 👤 About the Designer & Researcher
+## 👤 About the Researcher
 
-**Md. Monowar Hossain**
-*Service System Designer | Public Sector Researcher | Data Strategist*
+**Md. [cite_start]Monowar Hossain** [cite: 32]
+*Data-Driven Researcher | Digital Governance Advocate*
 
-I leverage data analytics and a background in Business Administration (MBA) to map human friction, architect trust, and design impactful service ecosystems. My work focuses on translating complex quantitative models into human-centric strategies that improve public and organizational systems.
+[cite_start]I leverage quantitative analytics and a background in Business Administration (MBA) to map systemic behaviors, architect trust, and build inclusive digital ecosystems[cite: 41, 44]. My work focuses on translating complex data into actionable strategies that improve public sector governance and empower cross-cultural leadership.
 
-- 📧 **Email:** monowar.bba@gmail.com
-- 💼 **LinkedIn:** [monowar-hossain-278460225](https://www.linkedin.com/in/monowar-hossain-278460225)
+- [cite_start]📧 **Email:** monowar.1803365@std.hstu.ac.bd [cite: 36]
+- [cite_start]💼 **LinkedIn:** [Md Monowar Hossain](https://www.linkedin.com/in/md-monowar-hossain-278460225/) [cite: 37]
 
 ---
 
